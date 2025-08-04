@@ -13,6 +13,12 @@
 
 ---
 
+## Video
+
+https://github.com/user-attachments/assets/8804bcde-553e-4f99-9664-e9233df4eb9d
+
+---
+
 ## 🛠 Requirements
 
 - **Blender** (version 3.0+ recommended)
